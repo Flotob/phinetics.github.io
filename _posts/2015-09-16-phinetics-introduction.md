@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : [articles, essays, thoughts]
 tagline: "What is Phinetics?"
 tags : [philosophy, madness, computers]
 ---
