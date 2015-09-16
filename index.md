@@ -1,20 +1,14 @@
 ---
 layout: page
-title: Hello World!
+title: Hi Folks!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 Read the introductury post to [phinetics](http://localhost:4000/lessons/2015/09/16/phinetics-introduction/)
 
-
     
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+## Our higher knowledge
 
 Here's a sample "posts list".
 
@@ -26,9 +20,9 @@ Here's a sample "posts list".
 
 ## To-Do
 
-Get a grip
-Enjoy Madness
-Learn Jekyll
-Acquire higher consciousness
+- Get a grip
+- Enjoy Madness
+- Learn Jekyll
+- Acquire higher consciousness
 
 
