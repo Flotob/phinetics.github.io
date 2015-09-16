@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read the introductury post to [phinetics](http://localhost:4000/lessons/2015/09/16/phinetics-introduction/)
+Read the introductury post to [phinetics](http://phinetics.github.io/lessons/2015/09/16/phinetics-introduction/)
 
     
 ## Our higher knowledge
