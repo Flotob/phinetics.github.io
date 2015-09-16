@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "What is Phinetics?"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [philosophy, madness, computers]
 ---
 {% include JB/setup %}
 
