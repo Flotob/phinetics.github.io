@@ -1,28 +1,20 @@
 ---
 layout: page
-title: Hi Folks!
+title: What is Philosophical Cybernetics?
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read the introductury post to [phinetics](http://phinetics.github.io/lessons/2015/09/16/phinetics-introduction/)
+Philosophical cybernetics is 
 
-    
-## Our higher knowledge
+* the study of philosophical issues originating in computer science theory *and* practice.
 
-Here's a sample "posts list".
+* the tackling of traditional and novel philosophical issues via methods and tools originating in computer science. 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Learn more in the [introduction](introduction.html).
 
-## To-Do
+# Objectives of this website
 
-- Get a grip
-- Enjoy Madness
-- Learn Jekyll
-- Acquire higher consciousness
+* Be a portal to past and current research on or relevant to philosophical cybernetics.
 
-
+* Provide a platform in which ways to *practice* philosophical cybernetics can be created and developed.
