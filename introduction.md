@@ -50,6 +50,26 @@ Below are the type of questions phinetics works on.
 
 * Are computers and robots morally responsible for their actions? 
 
+### Autonomous Machines
+
+* Can software possess autonomy?
+
+* Is autonomy a subjective or objective quality? 
+
+* Is there a need to change our definition of autonomy?
+
+### Memetics: replication and curation
+
+* How can the intellectual framework of memetics be applied to understand modern information technology?
+
+#### Economics and Heteromation
+
+* Is there an unexplained interdependence between technology and economics (which we are only slowly uncovering)?
+
+* Assuming the diffusion of connected technology continues to accelerate at the current rate, is economics the thread that interweaves humans and autonomous machines?
+
+* Which conclusions on the evolution of technology may be drawn from such a premise?
+
 ### Phinetics techniques
 
 * How can computers be used to conduct all the above enquiries? 
